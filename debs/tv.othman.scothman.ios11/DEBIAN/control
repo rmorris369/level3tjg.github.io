@@ -1,0 +1,10 @@
+Package: tv.othman.scothman.ios11
+Name: SCOthman For Snap (iOS 11)
+Architecture: iphoneos-arm
+Depends: firmware (>=11.0), mobilesubstrate
+Description: SCOthman alongside install
+Maintainer: level3tjg <tjaygrantham@gmail.com>
+Author: level3tjg <tjaygrantham@gmail.com>
+Section: Tweaks
+Depiction: https://level3tjg.github.io/depictions/?p=tv.othman.scothman.ios11
+Version: 12.10.1
