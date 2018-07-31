@@ -5,7 +5,6 @@
 	<compatibility>
 		<firmware>
 			<miniOS>11.0</miniOS>
-			<maxiOS>11.4</maxiOS>
 			<otherVersions>unsupported</otherVersions>
 			<!--
 			for otherVersions, you can put either unsupported or unconfirmed
@@ -14,11 +13,11 @@
 	</compatibility>
 	<dependencies></dependencies>
 	<descriptionlist>
-		<description>SCOthman alongside install</description>
+		<description>SCOthman For Snapchat</description>
 	</descriptionlist>
 	<screenshots></screenshots>
 	<changelog>
-		<change>Initial release</change>
+		<change>Nothing new</change>
 	</changelog>
 	<links></links>
 </package>
