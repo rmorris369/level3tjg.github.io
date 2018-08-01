@@ -1,6 +1,6 @@
 <changelog>
 	<changes>
-		<version>1.0</version>
-		<change>Initial release</change>
+		<version>1.0.1</version>
+		<change>Clear cache for better compatibility</change>
 	</changes>
 </changelog>
