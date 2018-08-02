@@ -1,10 +1,10 @@
 <package>
 	<id>com.level3tjg.snapdowngrade</id>
 	<name>snapdowngrade</name>
-	<version>1.0.1</version>
+	<version>1.0.2</version>
 	<compatibility>
 		<firmware>
-			<miniOS>8.0</miniOS>
+			<miniOS>7.0</miniOS>
 			<otherVersions>unsupported</otherVersions>
 			<!--
 			for otherVersions, you can put either unsupported or unconfirmed
@@ -17,7 +17,7 @@
 	</descriptionlist>
 	<screenshots></screenshots>
 	<changelog>
-		<change>Clear cache for better compatibility</change>
+		<change>Fixed startup crash due to tweak and added first launch crash popup</change>
 	</changelog>
 	<links></links>
 </package>
