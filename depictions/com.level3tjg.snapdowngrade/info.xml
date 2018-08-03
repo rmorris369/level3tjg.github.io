@@ -17,7 +17,7 @@
 	</descriptionlist>
 	<screenshots></screenshots>
 	<changelog>
-		<change>Fixed startup crash due to tweak and added first launch crash popup</change>
+		<change>Fixed startup crash and added version check</change>
 	</changelog>
 	<links></links>
 </package>
