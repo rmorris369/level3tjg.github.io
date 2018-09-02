@@ -1,6 +1,0 @@
-<changelog>
-	<changes>
-		<version>2.0</version>
-		<change>Complete rewrite, should work on any Snapchat version under 10.35.0 (anything over 10.22.2 is untested)</change>
-	</changes>
-</changelog>
