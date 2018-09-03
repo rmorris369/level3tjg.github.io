@@ -1,6 +1,6 @@
 <changelog>
 	<changes>
-		<version>1.0</version>
-		<change>Initial release</change>
+		<version>1.0.1</version>
+		<change>Added delays between code injection so the user has time to open the app </change>
 	</changes>
 </changelog>
