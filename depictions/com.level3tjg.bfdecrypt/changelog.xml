@@ -1,5 +1,7 @@
 <changelog>
 	<changes>
+		<version>1.0.2</version>
+		<change>Added a blank filter file in case you want to load the dylib using mobile substrate (may add a preferences pane later to make things easier ;^)</change>
 		<version>1.0.1</version>
 		<change>Added delays between code injection so the user has time to open the app </change>
 	</changes>
