@@ -1,10 +1,10 @@
 <package>
 	<id>com.level3tjg.ipapatcher</id>
 	<name>IPAPatcher</name>
-	<version>1.0.1</version>
+	<version>1.0.2</version>
 	<compatibility>
 		<firmware>
-			<miniOS>11.0</miniOS>
+			<miniOS>10.0</miniOS>
 			<otherVersions>unsupported</otherVersions>
 			<!--
 			for otherVersions, you can put either unsupported or unconfirmed
@@ -17,7 +17,7 @@
 	</descriptionlist>
 	<screenshots></screenshots>
 	<changelog>
-		<change>Initial release</change>
+		<change>Bug fix</change>
 	</changelog>
 	<links></links>
 </package>
