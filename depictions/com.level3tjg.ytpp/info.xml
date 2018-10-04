@@ -1,0 +1,23 @@
+<package>
+	<id>com.abcapps.snapplus.ios11</id>
+	<name>Snap + For Snapchat (iOS 11)</name>
+	<version>1.4r-76</version>
+	<compatibility>
+		<firmware>
+			<miniOS>11.0</miniOS>
+			<otherVersions>unsupported</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>YouTube++ for iOS 11</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Nothing new</change>
+	</changelog>
+	<links></links>
+</package>
