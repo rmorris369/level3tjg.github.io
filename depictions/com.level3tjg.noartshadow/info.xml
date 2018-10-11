@@ -1,7 +1,7 @@
 <package>
 	<id>com.level3tjg.noartshadow</id>
 	<name>NoArtShadow</name>
-	<version>1.0.2</version>
+	<version>1.0.3</version>
 	<compatibility>
 		<firmware>
 			<miniOS>10.0</miniOS>
@@ -13,11 +13,11 @@
 	</compatibility>
 	<dependencies></dependencies>
 	<descriptionlist>
-		<description>Hide the album art shadow in the Music app</description>
+		<description>Hide the album art shadow in the Music app and Springboard</description>
 	</descriptionlist>
 	<screenshots></screenshots>
 	<changelog>
-		<change>Fixed all the bugs! Enjoy</change>
+		<change>Hide art shadow on lockscreen player</change>
 	</changelog>
 	<links></links>
 </package>
