@@ -1,0 +1,10 @@
+Package: com.level3tjg.tc
+Name: Title Controller
+Architecture: iphoneos-arm
+Description: Control navigation bar titles
+Depiction: https://level3tjg.github.io/depictions/?p=com.level3tjg.tc
+Depends: firmware(>=11.0), preferenceloader, applist
+Maintainer: level3tjg
+Author: level3tjg
+Section: Tweaks
+Version: 1.0
