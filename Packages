@@ -1,0 +1,329 @@
+Package: com.abcapps.snapplus.ios11
+Version: 1.7r-49
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), com.level3tjg.uasharedtools.nostash (>= 2.2b-20)
+Conflicts: com.skylerk99.snapprefs, com.thomasfinch.snapchatsound, com.timecompiler.snapchatlog, com.n00neimp0rtant.picarchiver, com.perascotta.snapmoretext, com.bengerard.snapselect, com.ridan.allsnap, com.drp.snapmaster,repo.biteyourapple.net.pluscrack, repo.biteyourapple.net.gramplus
+Filename: ./debs/com.abcapps.snapplus.ios11_iphoneos-arm.deb
+Size: 4807300
+MD5sum: aa5337a4da91d1431c0178facbfa7111
+SHA1: 9079ae3f058f514c824c228b2b58252763df1a51
+SHA256: 19e3d61ddfa21adbd6c0ecf05d62a121ff8196335a168abaacb2f4e59836bab1
+Section: Tweaks
+Homepage: https://level3tjg.github.io/depictions/?p=com.abcapps.snapplus.ios11/
+Description: Extend Snapchat! Formerly AppPlus. Save/Share Snaps. Upload photos/videos from gallery. Works on the latest version of SnapChat!
+Tag: purpose::extension
+Author: UnlimApps Inc. <support@unlimapps.com>
+Depiction: https://level3tjg.github.io/depictions/?p=com.abcapps.snapplus.ios11/
+Name: Snap + for Snapchat
+Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: com.cokepokes.phantom.ios11
+Version: 5.3.8-6
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000), com.rpetrich.rocketbootstrap
+Conflicts: com.n00neimp0rtant.picarchiver, com.thomasfinch.snapchatsound, com.timecompiler.snapchatlog, com.perascotta.snapmoretext, com.bengerard.snapselect, com.ridan.allsnap, com.drp.snapmaster, com.skylerk99.snapprefs,  com.jonluca.sclenses4all, com.cokepokes.libphantom
+Replaces: com.cokepokes.phlite
+Filename: ./debs/com.cokepokes.phantom.ios11_iphoneos-arm.deb
+Size: 10571734
+MD5sum: 9ee740cb5d284e35585099a48048d7d8
+SHA1: bef9266bbbffbd2c6d37625315f5dbcc7f73c12a
+SHA256: ad561714f2776f841e234c799edd9d757d8e94dbe50c48e2ebcd4c6c76e53a82
+Section: Tweaks
+Priority: optional
+Homepage: https://level3tjg.github.io/depictions/?p=com.cokepokes.phantom.ios11
+Description: Phantom is in the process of being fully updated to bypass Snapchat’s tweak detection
+Tag: purpose::extension, compatible::ios11
+Author: CokePokes <cokepokes@gmail.com>
+Depiction: https://level3tjg.github.io/depictions/?p=com.cokepokes.phantom.ios11
+Dev: cokepokes
+Icon: file:///Library/PreferenceBundles/phlite.bundle/phantomIcon@2x.png
+Name: Phantom (Lite) for Snapchat (iOS 11)
+Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: com.level3tjg.bfdecrypt
+Version: 1.2.1
+Architecture: iphoneos-arm
+Maintainer: level3tjg <tjaygrantham@gmail.com>
+Depends: firmware(>=11.0), preferenceloader, applist
+Filename: ./debs/com.level3tjg.bfdecrypt_1.2.1_iphoneos-arm.deb
+Size: 110084
+MD5sum: ff849e242c68c0ea4b22dc9df117979e
+SHA1: a2fad3bfc7531ae355c772c77a25a25cd96e3462
+SHA256: 3c5ffdcb1c72a434a49898517ae264ee516f47f3b54d5fcf190468878bf87848
+Section: System
+Description: bfdecrypt for iOS 11 to 11.3.1
+Author: level3tjg <tjaygrantham@gmail.com>
+Depiction: https://level3tjg.github.io/depictions/?p=com.level3tjg.bfdecrypt
+Name: bfdecrypt
+
+Package: com.level3tjg.centeredlargetitles
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: level3tjg
+Depends: mobilesubstrate
+Filename: ./debs/com.level3tjg.centeredlargetitles_1.0_iphoneos-arm.deb
+Size: 3636
+MD5sum: cdbaaee5d8ae6bf2d68dec8f04361363
+SHA1: b7b83250e2db3d5f44bc26e4651f03faf7a7aafd
+SHA256: d0c5c86a2243cfd52e0dfc745bf27fbdc39d6ffc5c367213d80b5e31563a49a8
+Section: Tweaks
+Description: Self explanatory
+Author: level3tjg
+Name: CenteredLargeTitles
+
+Package: com.level3tjg.centeredlargetitles
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: level3tjg
+Depends: mobilesubstrate
+Filename: ./debs/com.level3tjg.centeredlargetitles_1.0.1_iphoneos-arm.deb
+Size: 3064
+MD5sum: 5e9b48e560fd1681fdf368e0e7d568f2
+SHA1: f1e31a4c783238626f54fafba22e21d2b421b8fe
+SHA256: 16d17705157680ff9fe697b7a10a53a3c334d00a4da0feb80ee63a8df1f017fa
+Section: Tweaks
+Description: Self explanatory
+Author: level3tjg
+Name: CenteredLargeTitles
+
+Package: com.level3tjg.centeredlargetitles
+Version: 1.0.2
+Architecture: iphoneos-arm
+Maintainer: level3tjg
+Depends: mobilesubstrate
+Filename: ./debs/com.level3tjg.centeredlargetitles_1.0.2_iphoneos-arm.deb
+Size: 3054
+MD5sum: 6507fad3d6d3b577d15d63e742fbf194
+SHA1: 03076010df078acf29011387f6499eba97133c19
+SHA256: e50fd3c762ba9cc46d36035a5e6f48ce8c712e3375f554a9535b0e0310a5ec26
+Section: Tweaks
+Description: Self explanatory
+Author: level3tjg
+Name: CenteredLargeTitles
+
+Package: com.level3tjg.cotomovies
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: level3tjg
+Installed-Size: 120
+Depends: mobilesubstrate
+Filename: ./debs/com.level3tjg.cotomovies_1.0_iphoneos-arm.deb
+Size: 3400
+MD5sum: c1900fb29c408dba9919dadbb9724e16
+SHA1: f3c3a97b5e80bdf88a37523158ff2d7ccda211fb
+SHA256: 4170796c1df265fff96da90f5b58b5f322651464be62991af17e8c66b828297c
+Section: Tweaks
+Description: Tweak for CotoMovies
+Author: level3tjg
+Name: CotoMovies
+
+Package: com.level3tjg.ipapatcher
+Version: 1.0.3
+Architecture: iphoneos-arm
+Maintainer: level3tjg <tjaygrantham@gmail.com>
+Pre-Depends: firmware(>=10.0), zip, unzip, ldid, sed
+Filename: ./debs/com.level3tjg.ipapatcher_1.0.3_iphoneos-arm.deb
+Size: 1510
+MD5sum: bda4036bef967e346c1b76909bc36f81
+SHA1: 40bfe317ba3948ebd7734e5bff5a00a37fd1d7d6
+SHA256: fa7435d5b3dacfa1e66f9fb721eedf1627c4962fc907fbddee9c343ed2098f34
+Section: System
+Description: Sign IPA files with platform-application entitlements to fix some apps crashing on start on iOS 11.
+Author: level3tjg <tjaygrantham@gmail.com>
+Depiction: https://level3tjg.github.io/depictions/?p=com.level3tjg.ipapatcher
+Name: IPAPatcher
+
+Package: com.level3tjg.kijiji
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: level3tjg
+Installed-Size: 120
+Depends: mobilesubstrate
+Filename: ./debs/com.level3tjg.kijiji_1.0_iphoneos-arm.deb
+Size: 3426
+MD5sum: c6d7bf9f2baf71c4a606b8de5fe0821d
+SHA1: bb1f95b2fae47cdc5648faacb9b2e29892280457
+SHA256: 9e494939cb69888a945ca40bee0219a04038d6f162bdb0a0983837d9e8ce651f
+Section: Tweaks
+Description: Block GADs in the Kijiji application
+Author: level3tjg
+Name: Kijiji Ad Blocker
+
+Package: com.level3tjg.kijiji
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: level3tjg
+Installed-Size: 120
+Depends: mobilesubstrate
+Filename: ./debs/com.level3tjg.kijiji_1.0.1_iphoneos-arm.deb
+Size: 3378
+MD5sum: 8b7de2f6be144b427142731cb32a1048
+SHA1: b2548057dc18fedbbb3182f00cfdb7f5b60dc716
+SHA256: b1b80b20def89475b01890f0eae1111c6ae6509d77de4dfb7653380f2940042e
+Section: Tweaks
+Description: Block GADs in the Kijiji application
+Author: level3tjg
+Name: Kijiji Ad Blocker
+
+Package: com.level3tjg.noartshadow
+Version: 1.0.3
+Architecture: iphoneos-arm
+Maintainer: level3tjg
+Installed-Size: 120
+Depends: mobilesubstrate, firmware (>= 10.0)
+Filename: ./debs/com.level3tjg.noartshadow_1.0.3_iphoneos-arm.deb
+Size: 6122
+MD5sum: 562ff049452c43a3631721f173d92138
+SHA1: b22c464c18d41a6666ceb2ff3998524aad98d4eb
+SHA256: d5bedf9afe2f673128625f600ddf05b03fcaca19c3dff41ffbf6c01aabd3a6dc
+Section: Tweaks
+Description: Hide the album art shadow in the Music app and Springboard
+Author: level3tjg
+Depiction: https://level3tjg.github.io/depictions/?p=com.level3tjg.noartshadow
+Name: NoArtShadow
+
+Package: com.level3tjg.nospotifynplabel
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: level3tjg
+Installed-Size: 120
+Depends: mobilesubstrate
+Filename: ./debs/com.level3tjg.nospotifynplabel_1.0_iphoneos-arm.deb
+Size: 3362
+MD5sum: 42260d30996b1d160d9fbeb32725b109
+SHA1: d2e84529a132ceb6dc8b06b76f33015868ea4366
+SHA256: bb26955bfc7da5f620a0e14877401e4322674af5b340a51b377a4515b3f3feba
+Section: Tweaks
+Description: Remove "Now playing from" Label in Spotify
+Author: level3tjg
+Depiction: https://level3tjg.github.io/depictions/?p=com.level3tjg.nospotifynplabel
+Name: No Spotify NP Label
+
+Package: com.level3tjg.noythovercards
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: level3tjg
+Installed-Size: 120
+Depends: mobilesubstrate
+Filename: ./debs/com.level3tjg.noythovercards_1.0.1_iphoneos-arm.deb
+Size: 5270
+MD5sum: 5398f630d488cd46317a76b0dd14ddcf
+SHA1: 326883279db9d11ae370802980fe5d5b0945a70a
+SHA256: aadc637453fbb73973f9694f6a9014d4fe05d0f4ec861956f092e6908f71235f
+Section: Tweak
+Description: Disable YouTube hover cards at the end of videos
+Author: level3tjg
+Depiction: https://level3tjg.github.io/depictions/?p=com.level3tjg.noythovercards
+Name: NoYTHoverCards
+
+Package: com.level3tjg.opalbypass
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: level3tjg
+Installed-Size: 120
+Depends: mobilesubstrate
+Filename: ./debs/com.level3tjg.opalbypass_1.0_iphoneos-arm.deb
+Size: 3352
+MD5sum: ce168176bfb8c1a705c9ba1be60458d7
+SHA1: 44480d9b6e0345dc8cdb7bf561a417403f9dd01b
+SHA256: 9b91230d7a19e31a058e14a6d18083a86f9270aa7870ab024a2a168dc9633abf
+Section: Tweaks
+Description: Bypass Opal Travel JB detection
+Author: level3tjg
+Depiction: https://level3tjg.github.io/depictions/?p=com.level3tjg.opalbypass
+Name: OpalBypass
+
+Package: com.level3tjg.tc
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: level3tjg
+Depends: firmware(>=11.0), preferenceloader, applist
+Filename: ./debs/com.level3tjg.tc_1.0_iphoneos-arm.deb
+Size: 25732
+MD5sum: b790b86bfce89c85709b07ee99a10d1e
+SHA1: 68fd497bf8b4b515c8ae75edc86a64c95fc7349b
+SHA256: 6831eeaac3112b898f5873c1aabb0a9f4de06837852359524d977b3510361c20
+Section: Tweaks
+Description: Control navigation bar titles
+Author: level3tjg
+Depiction: https://level3tjg.github.io/depictions/?p=com.level3tjg.tc
+Name: Title Controller
+
+Package: com.level3tjg.uasharedtools.nostash
+Version: 2.2r-61
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Depends: mobilesubstrate, firmware (>= 11.0)
+Conflicts: com.yourepo.abo1bs.uasharedtoolsno-ads, com.hackyouriphone.uasharedtools, com.unlimapps.uasharedtools.stash, com.unlimapps.uasharedtools (<< 2.2r-36)
+Replaces: com.unlimapps.uasharedtools.stash, com.unlimapps.uasharedtools (<< 2.2r-36)
+Provides: com.unlimapps.uasharedtools.virtual
+Filename: ./debs/com.level3tjg.uasharedtools.nostash_iphoneos-arm.deb
+Size: 15776128
+MD5sum: 2b4377756c748613416eb34ee1aba8de
+SHA1: 2c6c2c21625816ef857b325b13e909361c6e366d
+SHA256: b85ba3013a280a51444a75849501e3a6935b4feac85ad099ffcf37d5b40b4b8b
+Section: Development
+Homepage: https://level3tjg.github.io/depictions/?p=com.level3tjg.uasharedtools.nostash
+Description: shared tools for unlimapps tweaks
+Author: UnlimApps Inc. <support@unlimapps.com>
+Depiction: https://level3tjg.github.io/depictions/?p=com.level3tjg.uasharedtools.nostash
+Dev: i4iphones
+Name: uasharedtools (iOS 11)
+
+Package: com.level3tjg.xboxdvr
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: level3tjg
+Depends: mobilesubstrate
+Filename: ./debs/com.level3tjg.xboxdvr_1.1_iphoneos-arm.deb
+Size: 12556
+MD5sum: 96c7b02ded7433001c66d228c7592a73
+SHA1: f263b5c125441c42b3276c5470ea4a8c11294964
+SHA256: 27e61f15c28b87f80d7caeb74f83a08f516218bc4ed58e1a5e6dc0e2d70a3c87
+Section: Tweaks
+Description: Save Xbox clips to your camera roll
+Author: level3tjg
+Depiction: https://level3tjg.github.io/depictions/?p=com.level3tjg.xboxdvr
+Name: XboxDVR
+
+Package: com.level3tjg.ytpp
+Version: 1.4r-76
+Architecture: iphoneos-arm
+Maintainer: level3tjg <tjaygrantham@.com>
+Depends: mobilesubstrate, firmware (>= 10.0), com.unlimapps.uasharedtools
+Filename: ./debs/com.level3tjg.ytpp_1.4r-76_iphoneos-arm.deb
+Size: 2085242
+MD5sum: 762207f0f8af52ab4bd4d689fcc89e36
+SHA1: a0555c25d3100a02ded3137aed8af8d90d54ebed
+SHA256: 5ca9d2c417aca933a35fe8e69894445b0f2409683df03bc916af4d109087dafd
+Section: Tweaks
+Description: Download all YouTube Videos! Continue background playback and much more!
+Author: UnlimApps Inc
+Depiction: https://level3tjg.github.io/depictions/?p=com.level3tjg.ytpp
+Name: YouTube ++
+
+Package: com.othman.scothman.ios11
+Version: 12.10.1
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Depends: mobilesubstrate, firmware (>= 11.0)
+Conflicts: com.hackyouriphone.palbreak, com.yourepo.mohadu31.nosub, com.yourepo.mohadu31.palbreakcyrepo, com.sharedroutine.skylerk99.disbreak, com.sharedroutine.skylerk99.snapbreak, com.sharedroutine.skylerk99.mlbreak, com.hackyouriphone.xconxx, com.repo.xarold.com.xconxx, com.n00neimp0rtant.xconxx, com.yourepo.mohadu31.xconxxx, com.yourepo.mohadu31.xconxxforios9, com.yourepo.goldcydia.xconxx, net.cydia00.xcon, com.ithegentle.phloader, com.yourepo.mohadu31.phloader, net.cydia00.phloader, com.yourepo.mohadu31.phantomcrack, com.yourepo.goldcydia.phantomcrack, net.cydia00.phantomcrack, com.ithegentle.adsremoval, tv.othman.scothman, com.yourepo.othmanal3miry.scothmanforsnapchat
+Filename: ./debs/com.othman.scothman.ios11.deb
+Size: 3168828
+MD5sum: 9d4c9159f6583bdbc2b114b97a7fb41d
+SHA1: 61c683ce4b887b4062c7cba93f68899c864a791c
+SHA256: d05c816b442e1943b737e34bc60871cd12252bbf4dd596943eb94176a2a65ec5
+Section: Tweaks
+Priority: optional
+Homepage: https://level3tjg.github.io/depictions/?p=com.othman.scothman.ios11
+Description: Add features to the Snap app
+Tag: purpose::extension, compatible::ios11
+Author: Othman Alomiry <oooom24@gmail.com>
+Depicion: https://level3tjg.github.io/depictions/?p=com.othman.scothman.ios11
+Dev: othman
+Icon: file:///Library/Application%20Support/SnapOthman/SCOthmanResources.bundle/SCOthmanIcon.png
+Name: SCOthman For Snap (iOS11)
+Sponsor: thebigboss.org <http://thebigboss.org>
+
