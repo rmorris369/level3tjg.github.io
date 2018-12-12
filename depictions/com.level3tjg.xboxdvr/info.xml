@@ -1,7 +1,7 @@
 <package>
 	<id>com.level3tjg.xboxdvr</id>
 	<name>XboxDVR</name>
-	<version>1.0</version>
+	<version>1.1</version>
 	<compatibility>
 		<firmware>
 			<miniOS>7.0</miniOS>
@@ -17,7 +17,7 @@
 	</descriptionlist>
 	<screenshots></screenshots>
 	<changelog>
-		<change>Initial release</change>
+		<change>Many improvements, most are noticeable.</change>
 	</changelog>
 	<links></links>
 </package>
