@@ -1,0 +1,343 @@
+Package: com.level3tjg.bfdecrypt
+Version: 1.2.1
+Section: System
+Maintainer: level3tjg <tjaygrantham@gmail.com>
+Depends: firmware(>=11.0), preferenceloader, applist
+Architecture: iphoneos-arm
+Filename: ./debs/com.level3tjg.bfdecrypt_1.2.1_iphoneos-arm.deb
+Size: 110084
+MD5sum: ff849e242c68c0ea4b22dc9df117979e
+Description: bfdecrypt for iOS 11 to 11.3.1
+Name: bfdecrypt
+Author: level3tjg <tjaygrantham@gmail.com>
+Depiction: https://level3tjg.github.io/depictions/?p=com.level3tjg.bfdecrypt
+
+Package: com.level3tjg.centeredlargetitles
+Version: 1.0
+Section: Tweaks
+Maintainer: level3tjg
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.level3tjg.centeredlargetitles_1.0_iphoneos-arm.deb
+Size: 3636
+MD5sum: cdbaaee5d8ae6bf2d68dec8f04361363
+Description: Self explanatory
+Name: CenteredLargeTitles
+Author: level3tjg
+
+Package: com.level3tjg.centeredlargetitles
+Version: 1.0.2
+Section: Tweaks
+Maintainer: level3tjg
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.level3tjg.centeredlargetitles_1.0.2_iphoneos-arm.deb
+Size: 3054
+MD5sum: 6507fad3d6d3b577d15d63e742fbf194
+Description: Self explanatory
+Name: CenteredLargeTitles
+Author: level3tjg
+
+Package: com.level3tjg.centeredlargetitles
+Version: 1.0.1
+Section: Tweaks
+Maintainer: level3tjg
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.level3tjg.centeredlargetitles_1.0.1_iphoneos-arm.deb
+Size: 3064
+MD5sum: 5e9b48e560fd1681fdf368e0e7d568f2
+Description: Self explanatory
+Name: CenteredLargeTitles
+Author: level3tjg
+
+Package: com.level3tjg.cotomovies
+Version: 1.0
+Section: Tweaks
+Maintainer: level3tjg
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.level3tjg.cotomovies_1.0_iphoneos-arm.deb
+Size: 3400
+Installed-Size: 120
+MD5sum: c1900fb29c408dba9919dadbb9724e16
+Description: Tweak for CotoMovies
+Name: CotoMovies
+Author: level3tjg
+
+Package: com.level3tjg.insert-dylib
+Version: 1.0.2
+Section: System
+Maintainer: level3tjg
+Architecture: iphoneos-arm
+Filename: ./debs/com.level3tjg.insert-dylib_1.0.2_iphoneos-arm.deb
+Size: 14414
+MD5sum: 18404656c5966338f7f1988e5fef4037
+Description: Command line utility for inserting a dylib load command into a Mach-O binary. https://github.com/Tyilo/insert_dylib
+Name: insert_dylib
+Author: level3tjg
+Depiction: https://level3tjg.github.io/depictions/?p=com.level3tjg.insert-dylib
+
+Package: com.level3tjg.insert-dylib
+Version: 1.0.3
+Section: System
+Maintainer: level3tjg
+Architecture: iphoneos-arm
+Filename: ./debs/com.level3tjg.insert-dylib_1.0.3_iphoneos-arm.deb
+Size: 49388
+MD5sum: b1b711e8d1df164923eb1452c3d4dc57
+Description: Command line utility for inserting a dylib load command into a Mach-O binary. https://github.com/Tyilo/insert_dylib
+Name: insert_dylib
+Author: level3tjg
+Depiction: https://level3tjg.github.io/depictions/?p=com.level3tjg.insert-dylib
+
+Package: com.level3tjg.insert-dylib
+Version: 1.0
+Section: System
+Maintainer: level3tjg
+Architecture: iphoneos-arm
+Filename: ./debs/com.level3tjg.insert-dylib_1.0_iphoneos-arm.deb
+Size: 8572
+MD5sum: 799ff863c70dadebd496d64f6c8e519c
+Description: Command line utility for inserting a dylib load command into a Mach-O binary. https://github.com/Tyilo/insert_dylib
+Name: insert_dylib
+Author: level3tjg
+
+Package: com.level3tjg.insert-dylib
+Version: 1.0.1
+Section: System
+Maintainer: level3tjg
+Architecture: iphoneos-arm
+Filename: ./debs/com.level3tjg.insert-dylib_1.0.1_iphoneos-arm.deb
+Size: 8558
+MD5sum: cd727fd973e047be35be45cd80818728
+Description: Command line utility for inserting a dylib load command into a Mach-O binary. https://github.com/Tyilo/insert_dylib
+Name: insert_dylib
+Author: level3tjg
+
+Package: com.level3tjg.ipapatcher
+Version: 1.0.5
+Section: System
+Maintainer: level3tjg <tjaygrantham@gmail.com>
+Pre-Depends: firmware(>=10.0), zip, unzip, ldid, sed, grep
+Architecture: iphoneos-arm
+Filename: ./debs/com.level3tjg.ipapatcher_1.0.5_iphoneos-arm.deb
+Size: 1556
+MD5sum: 79720b445d5b76ba8f3005e0f93790a2
+Description: Sign IPA files with entitlements to fix some apps crashing on start on iOS 11 - 12.
+Name: IPAPatcher
+Author: level3tjg <tjaygrantham@gmail.com>
+Depiction: https://level3tjg.github.io/depictions/?p=com.level3tjg.ipapatcher
+
+Package: com.level3tjg.ipapatcher
+Version: 1.0.4
+Section: System
+Maintainer: level3tjg <tjaygrantham@gmail.com>
+Pre-Depends: firmware(>=10.0), zip, unzip, ldid, sed
+Architecture: iphoneos-arm
+Filename: ./debs/com.level3tjg.ipapatcher_1.0.4_iphoneos-arm.deb
+Size: 1600
+MD5sum: f49a6a6052841cf6d29da8476b141f4a
+Description: Sign IPA files with entitlements to fix some apps crashing on start on iOS 11 - 12.
+Name: IPAPatcher
+Author: level3tjg <tjaygrantham@gmail.com>
+Depiction: https://level3tjg.github.io/depictions/?p=com.level3tjg.ipapatcher
+
+Package: com.level3tjg.ipapatcher
+Version: 1.0.3
+Section: System
+Maintainer: level3tjg <tjaygrantham@gmail.com>
+Pre-Depends: firmware(>=10.0), zip, unzip, ldid, sed
+Architecture: iphoneos-arm
+Filename: ./debs/com.level3tjg.ipapatcher_1.0.3_iphoneos-arm.deb
+Size: 1510
+MD5sum: bda4036bef967e346c1b76909bc36f81
+Description: Sign IPA files with platform-application entitlements to fix some apps crashing on start on iOS 11.
+Name: IPAPatcher
+Author: level3tjg <tjaygrantham@gmail.com>
+Depiction: https://level3tjg.github.io/depictions/?p=com.level3tjg.ipapatcher
+
+Package: com.level3tjg.kijiji
+Version: 1.0.1
+Section: Tweaks
+Maintainer: level3tjg
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.level3tjg.kijiji_1.0.1_iphoneos-arm.deb
+Size: 3378
+Installed-Size: 120
+MD5sum: 8b7de2f6be144b427142731cb32a1048
+Description: Block GADs in the Kijiji application
+Name: Kijiji Ad Blocker
+Author: level3tjg
+
+Package: com.level3tjg.kijiji
+Version: 1.0
+Section: Tweaks
+Maintainer: level3tjg
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.level3tjg.kijiji_1.0_iphoneos-arm.deb
+Size: 3426
+Installed-Size: 120
+MD5sum: c6d7bf9f2baf71c4a606b8de5fe0821d
+Description: Block GADs in the Kijiji application
+Name: Kijiji Ad Blocker
+Author: level3tjg
+
+Package: com.level3tjg.longgram
+Version: 1.0
+Section: Tweaks
+Maintainer: level3tjg
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.level3tjg.longgram_1.0_iphoneos-arm.deb
+Size: 3396
+MD5sum: 8a27a1d5cf43d0a0badf6716a58225e3
+Description: Upload long videos to Instagram.
+Name: LongGram
+Author: level3tjg
+
+Package: com.level3tjg.noartshadow
+Version: 1.0.3
+Section: Tweaks
+Maintainer: level3tjg
+Depends: mobilesubstrate, firmware (>= 10.0)
+Architecture: iphoneos-arm
+Filename: ./debs/com.level3tjg.noartshadow_1.0.3_iphoneos-arm.deb
+Size: 6122
+Installed-Size: 120
+MD5sum: 562ff049452c43a3631721f173d92138
+Description: Hide the album art shadow in the Music app and Springboard
+Name: NoArtShadow
+Author: level3tjg
+Depiction: https://level3tjg.github.io/depictions/?p=com.level3tjg.noartshadow
+
+Package: com.level3tjg.nospotifynplabel
+Version: 1.0
+Section: Tweaks
+Maintainer: level3tjg
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.level3tjg.nospotifynplabel_1.0_iphoneos-arm.deb
+Size: 3362
+Installed-Size: 120
+MD5sum: 42260d30996b1d160d9fbeb32725b109
+Description: Remove "Now playing from" Label in Spotify
+Name: No Spotify NP Label
+Author: level3tjg
+Depiction: https://level3tjg.github.io/depictions/?p=com.level3tjg.nospotifynplabel
+
+Package: com.level3tjg.noythovercards
+Version: 1.0.1
+Section: Tweak
+Maintainer: level3tjg
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.level3tjg.noythovercards_1.0.1_iphoneos-arm.deb
+Size: 5270
+Installed-Size: 120
+MD5sum: 5398f630d488cd46317a76b0dd14ddcf
+Description: Disable YouTube hover cards at the end of videos
+Name: NoYTHoverCards
+Author: level3tjg
+Depiction: https://level3tjg.github.io/depictions/?p=com.level3tjg.noythovercards
+
+Package: com.level3tjg.oldspotifyui
+Version: 1.0
+Section: Tweaks
+Maintainer: level3tjg
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.level3tjg.oldspotifyui_1.0_iphoneos-arm.deb
+Size: 3586
+MD5sum: f1946568f43b5705bdeee1b6d29a18bf
+Description: Disable the new Spotify UI
+Name: OldSpotifyUI
+Author: level3tjg
+
+Package: com.level3tjg.opalbypass
+Version: 1.0
+Section: Tweaks
+Maintainer: level3tjg
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.level3tjg.opalbypass_1.0_iphoneos-arm.deb
+Size: 3352
+Installed-Size: 120
+MD5sum: ce168176bfb8c1a705c9ba1be60458d7
+Description: Bypass Opal Travel JB detection
+Name: OpalBypass
+Author: level3tjg
+Depiction: https://level3tjg.github.io/depictions/?p=com.level3tjg.opalbypass
+
+Package: com.level3tjg.tc
+Version: 1.0
+Section: Tweaks
+Maintainer: level3tjg
+Depends: firmware(>=11.0), preferenceloader, applist
+Architecture: iphoneos-arm
+Filename: ./debs/com.level3tjg.tc_1.0_iphoneos-arm.deb
+Size: 25732
+MD5sum: b790b86bfce89c85709b07ee99a10d1e
+Description: Control navigation bar titles
+Name: Title Controller
+Author: level3tjg
+Depiction: https://level3tjg.github.io/depictions/?p=com.level3tjg.tc
+
+Package: com.level3tjg.xboxdvr
+Version: 1.2
+Section: Tweaks
+Maintainer: level3tjg
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.level3tjg.xboxdvr_1.2_iphoneos-arm.deb
+Size: 12696
+MD5sum: 9e72b466bd3be8779d98514c09e4275a
+Description: Save Xbox clips to your camera roll
+Name: XboxDVR
+Author: level3tjg
+Depiction: https://level3tjg.github.io/depictions/?p=com.level3tjg.xboxdvr
+
+Package: com.level3tjg.xboxdvr
+Version: 1.2.1
+Section: Tweaks
+Maintainer: level3tjg
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.level3tjg.xboxdvr_1.2.1_iphoneos-arm.deb
+Size: 12592
+MD5sum: 3b10c9d042fdf7b07fbc97d6af8a2f51
+Description: Save Xbox clips to your camera roll
+Name: XboxDVR
+Author: level3tjg
+Depiction: https://level3tjg.github.io/depictions/?p=com.level3tjg.xboxdvr
+
+Package: com.level3tjg.ytnoctis
+Version: 1.0
+Section: Tweaks
+Maintainer: level3tjg
+Depends: mobilesubstrate, com.laughingquoll.noctisxi
+Architecture: iphoneos-arm
+Filename: ./debs/com.level3tjg.ytnoctis_1.0_iphoneos-arm.deb
+Size: 4242
+MD5sum: e6ae110aa23854493b8715656490800e
+Description: Enable YouTube dark theme with Noctis toggles.
+Name: YTNoctis
+Author: level3tjg
+
+Package: com.mbo42.proxyswitcher11
+Version: 1.0.3
+Section: Tweaks
+Maintainer: level3tjg
+Depends: mobilesubstrate, PreferenceLoader, org.thebigboss.libstatus9, firmware(>=11.0)
+Conflicts: com.mbo42.proxyswitcher
+Architecture: iphoneos-arm
+Filename: ./debs/com.mbo42.proxyswitcher11_1.0.3_iphoneos-arm.deb
+Size: 69372
+MD5sum: f30b77b689b0b6cdb3c500912e83072d
+Description: Easily toggle between using a proxy on WiFi.
+Name: ProxySwitcher (iOS 11)
+Author: mbo42
+Icon: file:///Library/Application Support/ProxySwitcher/ProxySwitcherBundle.bundle/icon.png
+
