@@ -1,7 +1,7 @@
 <package>
 	<id>com.level3tjg.ipapatcher</id>
 	<name>IPAPatcher</name>
-	<version>1.0.4</version>
+	<version>1.0.5</version>
 	<compatibility>
 		<firmware>
 			<miniOS>10.0</miniOS>
@@ -13,11 +13,11 @@
 	</compatibility>
 	<dependencies></dependencies>
 	<descriptionlist>
-		<description>Signs IPAs with entitlements for iOS 11 - 12 jailbreak support, fixes some apps crashing on launch. for usage run "ipapatcher -h" in Terminal or SSH</description>
+		<description>Signs IPAs with entitlements for iOS 11 - 12 jailbreak support, fixes some apps crashing on launch. For usage run "ipapatcher -h" in Terminal or SSH</description>
 	</descriptionlist>
 	<screenshots></screenshots>
 	<changelog>
-		<change>iOS 12 Support</change>
+		<change>Fixed a bug causing errors and an issue with ipas with more than 1 dot in the name</change>
 	</changelog>
 	<links></links>
 </package>

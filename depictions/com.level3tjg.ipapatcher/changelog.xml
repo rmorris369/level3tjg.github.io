@@ -1,6 +1,6 @@
 <changelog>
 	<changes>
-		<version>1.0.4</version>
-		<change>iOS 12 Support</change>
+		<version>1.0.5</version>
+		<change>Fixed a bug causing errors and an issue with ipas with more than 1 dot in the name</change>
 	</changes>
 </changelog>
