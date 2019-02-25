@@ -1,7 +1,7 @@
 <package>
 	<id>com.level3tjg.ipapatcher</id>
 	<name>IPAPatcher</name>
-	<version>1.0.3</version>
+	<version>1.0.4</version>
 	<compatibility>
 		<firmware>
 			<miniOS>10.0</miniOS>
@@ -13,11 +13,11 @@
 	</compatibility>
 	<dependencies></dependencies>
 	<descriptionlist>
-		<description>Signs IPAs with platform-application entitlement for iOS 11 Electra support, fixes some apps crashing on launch. for usage run "ipapatcher -h" in Terminal or SSH</description>
+		<description>Signs IPAs with entitlements for iOS 11 - 12 jailbreak support, fixes some apps crashing on launch. for usage run "ipapatcher -h" in Terminal or SSH</description>
 	</descriptionlist>
 	<screenshots></screenshots>
 	<changelog>
-		<change>Better iOS 10 support, does not thin binaries anymore. Now uses ldid instead of jtool.</change>
+		<change>iOS 12 Support</change>
 	</changelog>
 	<links></links>
 </package>
