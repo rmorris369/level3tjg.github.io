@@ -213,6 +213,19 @@ Name: NoArtShadow
 Author: level3tjg
 Depiction: https://level3tjg.github.io/depictions/?p=com.level3tjg.noartshadow
 
+Package: com.level3tjg.noccgrabber12
+Version: 1.0
+Section: Tweaks
+Maintainer: level3tjg
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.level3tjg.noccgrabber12_1.0_iphoneos-arm.deb
+Size: 11616
+MD5sum: afb74adaed19ebca2d5c9908f026f8ca
+Description: Remove the CC grabber on the iPhone X lockscreen
+Name: NoCCGrabber12
+Author: level3tjg
+
 Package: com.level3tjg.nospotifynplabel
 Version: 1.0
 Section: Tweaks
