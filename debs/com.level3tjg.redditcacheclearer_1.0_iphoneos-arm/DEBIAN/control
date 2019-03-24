@@ -1,0 +1,9 @@
+Package: com.level3tjg.redditcacheclearer
+Name: RedditCacheClearer
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Clear the reddit video cache every time you open the app to save space
+Maintainer: level3tjg
+Author: level3tjg
+Section: Tweaks
+Version: 1.0
