@@ -1,0 +1,8 @@
+Usage: dpkg-scanpackages [<option> ...] <binarypath> <overridefile> [<pathprefix>] > Packages
+
+Options:
+  -u, --udeb               scan for udebs.
+  -a, --arch <arch>        architecture to scan for.
+  -m, --multiversion       allow multiple versions of a single package.
+  -h, --help               show this help message.
+      --version            show the version.
