@@ -1,0 +1,549 @@
+Package: com.level3tjg.airpodsglyph
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: level3tjg
+Installed-Size: 160
+Depends: mobilesubstrate
+Filename: ./debs/com.level3tjg.airpodsglyph_1.0.1_iphoneos-arm.deb
+Size: 8724
+MD5sum: cfdf2c09bcf2eef1db63adf7a10a5839
+SHA1: 844a503869cdc90a290dd3a33cd6f01659a580a4
+SHA256: 9a041155edfd805af518d6098709f5f9d2ddface9087ca2670388beb906f0b91
+Section: Tweaks
+Description: Replace the Bluetooth headphones icon with an AirPods icon
+Author: level3tjg
+Name: AirPodsGlyph
+
+Package: com.level3tjg.airpodsglyph
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: level3tjg
+Installed-Size: 160
+Depends: mobilesubstrate
+Filename: ./debs/com.level3tjg.airpodsglyph_1.0_iphoneos-arm.deb
+Size: 7834
+MD5sum: b56de4b774cd77edfbec55d6e35ccf71
+SHA1: a21398bb392460177a6b81508ca1ae259c5c548a
+SHA256: 7235ecc2a8f23a65ae144c99bb08f2737a0de91899dd6f5ff56af02d5e96ba8e
+Section: Tweaks
+Description: Replace the Bluetooth headphones icon with an AirPods icon
+Author: level3tjg
+Name: AirPodsGlyph
+
+Package: com.level3tjg.bfdecrypt
+Version: 1.2.1
+Architecture: iphoneos-arm
+Maintainer: level3tjg <tjaygrantham@gmail.com>
+Depends: firmware(>=11.0), preferenceloader, applist
+Filename: ./debs/com.level3tjg.bfdecrypt_1.2.1_iphoneos-arm.deb
+Size: 110084
+MD5sum: ff849e242c68c0ea4b22dc9df117979e
+SHA1: a2fad3bfc7531ae355c772c77a25a25cd96e3462
+SHA256: 3c5ffdcb1c72a434a49898517ae264ee516f47f3b54d5fcf190468878bf87848
+Section: System
+Description: bfdecrypt for iOS 11 to 11.3.1
+Author: level3tjg <tjaygrantham@gmail.com>
+Depiction: https://level3tjg.github.io/depictions/?p=com.level3tjg.bfdecrypt
+Name: bfdecrypt
+
+Package: com.level3tjg.bfdecrypt
+Version: 1.3
+Architecture: iphoneos-arm
+Maintainer: level3tjg <tjaygrantham@gmail.com>
+Depends: firmware(>=11.0), preferenceloader, applist
+Filename: ./debs/com.level3tjg.bfdecrypt_1.3_iphoneos-arm.deb
+Size: 84178
+MD5sum: 99421646a1a229cbc65e0a1d8aa246f6
+SHA1: 820035d9761ebc2a817f36484e4be9fc3733e364
+SHA256: 6747d0388f012224514f4d01a3273437eaf3a4e4d6c2ec470c8174f2feeca862
+Section: System
+Description: bfdecrypt for iOS 11 to 12.1.2
+Author: level3tjg <tjaygrantham@gmail.com>
+Depiction: https://level3tjg.github.io/depictions/?p=com.level3tjg.bfdecrypt
+Name: bfdecrypt
+
+Package: com.level3tjg.ccforceslider
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: level3tjg
+Depends: mobilesubstrate
+Filename: ./debs/com.level3tjg.ccforceslider_1.0_iphoneos-arm.deb
+Size: 7040
+MD5sum: 98bd6a36e9c99f5db797c1f51e2d59d9
+SHA1: dc275b817e81a9366362cd371aa574ccb34e6798
+SHA256: e3fabbdca4a0ae7828da48d545e4b1ed4b7ea08c9dbd9021aa35a9776c7cf0c2
+Section: Tweaks
+Description: Require A force touch on CC sliders to use them
+Author: level3tjg
+Name: CCForceSlider
+
+Package: com.level3tjg.centeredlargetitles
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: level3tjg
+Depends: mobilesubstrate
+Filename: ./debs/com.level3tjg.centeredlargetitles_1.0_iphoneos-arm.deb
+Size: 3636
+MD5sum: cdbaaee5d8ae6bf2d68dec8f04361363
+SHA1: b7b83250e2db3d5f44bc26e4651f03faf7a7aafd
+SHA256: d0c5c86a2243cfd52e0dfc745bf27fbdc39d6ffc5c367213d80b5e31563a49a8
+Section: Tweaks
+Description: Self explanatory
+Author: level3tjg
+Name: CenteredLargeTitles
+
+Package: com.level3tjg.centeredlargetitles
+Version: 1.0.2
+Architecture: iphoneos-arm
+Maintainer: level3tjg
+Depends: mobilesubstrate
+Filename: ./debs/com.level3tjg.centeredlargetitles_1.0.2_iphoneos-arm.deb
+Size: 3054
+MD5sum: 6507fad3d6d3b577d15d63e742fbf194
+SHA1: 03076010df078acf29011387f6499eba97133c19
+SHA256: e50fd3c762ba9cc46d36035a5e6f48ce8c712e3375f554a9535b0e0310a5ec26
+Section: Tweaks
+Description: Self explanatory
+Author: level3tjg
+Name: CenteredLargeTitles
+
+Package: com.level3tjg.centeredlargetitles
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: level3tjg
+Depends: mobilesubstrate
+Filename: ./debs/com.level3tjg.centeredlargetitles_1.0.1_iphoneos-arm.deb
+Size: 3064
+MD5sum: 5e9b48e560fd1681fdf368e0e7d568f2
+SHA1: f1e31a4c783238626f54fafba22e21d2b421b8fe
+SHA256: 16d17705157680ff9fe697b7a10a53a3c334d00a4da0feb80ee63a8df1f017fa
+Section: Tweaks
+Description: Self explanatory
+Author: level3tjg
+Name: CenteredLargeTitles
+
+Package: com.level3tjg.cydelete12
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: level3tjg
+Installed-Size: 276
+Depends: mobilesubstrate, sudo, firmware (>=11.0)
+Filename: ./debs/com.level3tjg.cydelete12_1.0_iphoneos-arm.deb
+Size: 29094
+MD5sum: 8948b35cf88b2430f6b6dfd95668eb06
+SHA1: d5460313c8b8f1b69a4cfd5bee64814a65f031b2
+SHA256: c0609849ef9e5e8bd119af035c96b16d16a3d4c6053d0dd40b2e305a23f32c02
+Section: Tweaks
+Description: Delete Cydia apps just like normal applications
+Author: level3tjg
+Name: CyDelete12
+
+Package: com.level3tjg.insert-dylib
+Version: 1.0.2
+Architecture: iphoneos-arm
+Maintainer: level3tjg
+Filename: ./debs/com.level3tjg.insert-dylib_1.0.2_iphoneos-arm.deb
+Size: 14414
+MD5sum: 18404656c5966338f7f1988e5fef4037
+SHA1: 04b9b7272aafc1d4e68d65f47d74087b21054a3b
+SHA256: f84f49ba80dabae25638c57e5a936b35ca248a55f43ae6ca33be6ed61af034df
+Section: System
+Description: Command line utility for inserting a dylib load command into a Mach-O binary. https://github.com/Tyilo/insert_dylib
+Tag: role:hacker
+Author: level3tjg
+Depiction: https://level3tjg.github.io/depictions/?p=com.level3tjg.insert-dylib
+Name: insert_dylib
+
+Package: com.level3tjg.insert-dylib
+Version: 1.0.3
+Architecture: iphoneos-arm
+Maintainer: level3tjg
+Filename: ./debs/com.level3tjg.insert-dylib_1.0.3_iphoneos-arm.deb
+Size: 49388
+MD5sum: b1b711e8d1df164923eb1452c3d4dc57
+SHA1: c90c13cbfcdd9d73da5b0b23b0e708b1d0f8ab56
+SHA256: 5c6cc65115faa9fcdf7af4e88294233902d9ba79107020830d89ecbd8bf4946d
+Section: System
+Description: Command line utility for inserting a dylib load command into a Mach-O binary. https://github.com/Tyilo/insert_dylib
+Tag: role:hacker
+Author: level3tjg
+Depiction: https://level3tjg.github.io/depictions/?p=com.level3tjg.insert-dylib
+Name: insert_dylib
+
+Package: com.level3tjg.insert-dylib
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: level3tjg
+Filename: ./debs/com.level3tjg.insert-dylib_1.0_iphoneos-arm.deb
+Size: 8572
+MD5sum: 799ff863c70dadebd496d64f6c8e519c
+SHA1: e41c5f251df753d749a40f7bdc7022510ff600d5
+SHA256: 428aa7bd3da77eb2f87d5aeded281bdd74ccfa754319e9a7b460c6c86a212fd6
+Section: System
+Description: Command line utility for inserting a dylib load command into a Mach-O binary. https://github.com/Tyilo/insert_dylib
+Tag: role:hacker
+Author: level3tjg
+Name: insert_dylib
+
+Package: com.level3tjg.insert-dylib
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: level3tjg
+Filename: ./debs/com.level3tjg.insert-dylib_1.0.1_iphoneos-arm.deb
+Size: 8558
+MD5sum: cd727fd973e047be35be45cd80818728
+SHA1: 648ce1ba6ed2f2b9731bc19f5c49dcae123dbe8e
+SHA256: b9c2705819925a392d206ceef0659635e0d479a275a6be536d7c78704d923348
+Section: System
+Description: Command line utility for inserting a dylib load command into a Mach-O binary. https://github.com/Tyilo/insert_dylib
+Tag: role:hacker
+Author: level3tjg
+Name: insert_dylib
+
+Package: com.level3tjg.ipapatcher
+Version: 1.0.5
+Architecture: iphoneos-arm
+Maintainer: level3tjg <tjaygrantham@gmail.com>
+Pre-Depends: firmware(>=10.0), zip, unzip, ldid, sed, grep
+Filename: ./debs/com.level3tjg.ipapatcher_1.0.5_iphoneos-arm.deb
+Size: 1556
+MD5sum: 79720b445d5b76ba8f3005e0f93790a2
+SHA1: d04f1fddd3c83ec887276d27429441f84e8394b9
+SHA256: 9e9c0fddc42fe3c116a36795e62703d90137ee5b6fd2bfc9c6b4c6ce07243c11
+Section: System
+Description: Sign IPA files with entitlements to fix some apps crashing on start on iOS 11 - 12.
+Author: level3tjg <tjaygrantham@gmail.com>
+Depiction: https://level3tjg.github.io/depictions/?p=com.level3tjg.ipapatcher
+Name: IPAPatcher
+
+Package: com.level3tjg.ipapatcher
+Version: 1.0.4
+Architecture: iphoneos-arm
+Maintainer: level3tjg <tjaygrantham@gmail.com>
+Pre-Depends: firmware(>=10.0), zip, unzip, ldid, sed
+Filename: ./debs/com.level3tjg.ipapatcher_1.0.4_iphoneos-arm.deb
+Size: 1600
+MD5sum: f49a6a6052841cf6d29da8476b141f4a
+SHA1: 87fce4e78eb7b73dd06cb408a8922897c52d5c91
+SHA256: df9cab64ed53d6f2aa01223b2fd38a114be0780772a93e6b8cc154015986f7fd
+Section: System
+Description: Sign IPA files with entitlements to fix some apps crashing on start on iOS 11 - 12.
+Author: level3tjg <tjaygrantham@gmail.com>
+Depiction: https://level3tjg.github.io/depictions/?p=com.level3tjg.ipapatcher
+Name: IPAPatcher
+
+Package: com.level3tjg.ipapatcher
+Version: 1.0.3
+Architecture: iphoneos-arm
+Maintainer: level3tjg <tjaygrantham@gmail.com>
+Pre-Depends: firmware(>=10.0), zip, unzip, ldid, sed
+Filename: ./debs/com.level3tjg.ipapatcher_1.0.3_iphoneos-arm.deb
+Size: 1510
+MD5sum: bda4036bef967e346c1b76909bc36f81
+SHA1: 40bfe317ba3948ebd7734e5bff5a00a37fd1d7d6
+SHA256: fa7435d5b3dacfa1e66f9fb721eedf1627c4962fc907fbddee9c343ed2098f34
+Section: System
+Description: Sign IPA files with platform-application entitlements to fix some apps crashing on start on iOS 11.
+Author: level3tjg <tjaygrantham@gmail.com>
+Depiction: https://level3tjg.github.io/depictions/?p=com.level3tjg.ipapatcher
+Name: IPAPatcher
+
+Package: com.level3tjg.noalbumart
+Version: 0.1-1+debug
+Architecture: iphoneos-arm
+Maintainer: level3tjg
+Installed-Size: 132
+Depends: mobilesubstrate
+Filename: ./debs/com.level3tjg.noalbumart_0.1-1+debug_iphoneos-arm.deb
+Size: 9846
+MD5sum: 6eeb089cde596710c5d3867b89a8d4d3
+SHA1: 32ed620cb40805309c506835cba0fd367da95648
+SHA256: 536f48cb33467d503a1dbfb85b2a6addc90cde5088a19fc7430804a53737a09a
+Section: Tweaks
+Description: Remove Album art from the Music app's Now Playing
+Author: level3tjg
+Name: NoAlbumArt
+
+Package: com.level3tjg.noartshadow
+Version: 1.0.3
+Architecture: iphoneos-arm
+Maintainer: level3tjg
+Installed-Size: 120
+Depends: mobilesubstrate, firmware (>= 10.0)
+Filename: ./debs/com.level3tjg.noartshadow_1.0.3_iphoneos-arm.deb
+Size: 6122
+MD5sum: 562ff049452c43a3631721f173d92138
+SHA1: b22c464c18d41a6666ceb2ff3998524aad98d4eb
+SHA256: d5bedf9afe2f673128625f600ddf05b03fcaca19c3dff41ffbf6c01aabd3a6dc
+Section: Tweaks
+Description: Hide the album art shadow in the Music app and Springboard
+Author: level3tjg
+Depiction: https://level3tjg.github.io/depictions/?p=com.level3tjg.noartshadow
+Name: NoArtShadow
+
+Package: com.level3tjg.noccgrabber12
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: level3tjg
+Depends: mobilesubstrate
+Filename: ./debs/com.level3tjg.noccgrabber12_1.0_iphoneos-arm.deb
+Size: 11616
+MD5sum: afb74adaed19ebca2d5c9908f026f8ca
+SHA1: 1552408d5ab2938d861d82ee5a75f23efb062bf9
+SHA256: aef93c50d49f36d84d939a0fb20773d4642d911ef9f834577ca00a8ca215211e
+Section: Tweaks
+Description: Remove the CC grabber on the iPhone X lockscreen
+Author: level3tjg
+Name: NoCCGrabber12
+
+Package: com.level3tjg.noythovercards
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: level3tjg
+Installed-Size: 120
+Depends: mobilesubstrate
+Filename: ./debs/com.level3tjg.noythovercards_1.0.1_iphoneos-arm.deb
+Size: 5270
+MD5sum: 5398f630d488cd46317a76b0dd14ddcf
+SHA1: 326883279db9d11ae370802980fe5d5b0945a70a
+SHA256: aadc637453fbb73973f9694f6a9014d4fe05d0f4ec861956f092e6908f71235f
+Section: Tweak
+Description: Disable YouTube hover cards at the end of videos
+Author: level3tjg
+Depiction: https://level3tjg.github.io/depictions/?p=com.level3tjg.noythovercards
+Name: NoYTHoverCards
+
+Package: com.level3tjg.noytstories
+Version: 1.0.3
+Architecture: iphoneos-arm
+Maintainer: level3tjg
+Depends: mobilesubstrate
+Filename: ./debs/com.level3tjg.noytstories_1.0.3_iphoneos-arm.deb
+Size: 7198
+MD5sum: 98999817c826b8cb495e7722f1fba3ff
+SHA1: 88414bf2eead67c708d7c821e80ab696ee5c0191
+SHA256: bfd52b5891e9b307da1205759366cf945d5af95b6892da1b08b71da9debf48a7
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: level3tjg
+Name: NoYTStories
+
+Package: com.level3tjg.noytstories
+Version: 1.0.2
+Architecture: iphoneos-arm
+Maintainer: level3tjg
+Depends: mobilesubstrate
+Filename: ./debs/com.level3tjg.noytstories_1.0.2_iphoneos-arm.deb
+Size: 7042
+MD5sum: 5ba5e63305525222295f1fa05bb7625e
+SHA1: 7a79c20bbb0719466eebaf5aac072b967fac0932
+SHA256: 728a5454ab90e61ee2d42a453e08fba4ad9dac5372d5b950c53baf5f2a0025ad
+Section: Tweaks
+Description: Hide stories in the YouTube Home / Subscriptions feeds
+Author: level3tjg
+Name: NoYTStories
+
+Package: com.level3tjg.oldspotifyui
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: level3tjg
+Depends: mobilesubstrate
+Filename: ./debs/com.level3tjg.oldspotifyui_1.0_iphoneos-arm.deb
+Size: 3586
+MD5sum: f1946568f43b5705bdeee1b6d29a18bf
+SHA1: 6d8e03858f73e3c53b0ef5a24d423b2bc012cf56
+SHA256: 4a1b903a17c69fb2fe349be23f9c5869348c9d6821dc339355639c094b137d34
+Section: Tweaks
+Description: Disable the new Spotify UI
+Author: level3tjg
+Name: OldSpotifyUI
+
+Package: com.level3tjg.opalbypass
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: level3tjg
+Installed-Size: 120
+Depends: mobilesubstrate
+Filename: ./debs/com.level3tjg.opalbypass_1.0_iphoneos-arm.deb
+Size: 3352
+MD5sum: ce168176bfb8c1a705c9ba1be60458d7
+SHA1: 44480d9b6e0345dc8cdb7bf561a417403f9dd01b
+SHA256: 9b91230d7a19e31a058e14a6d18083a86f9270aa7870ab024a2a168dc9633abf
+Section: Tweaks
+Description: Bypass Opal Travel JB detection
+Author: level3tjg
+Depiction: https://level3tjg.github.io/depictions/?p=com.level3tjg.opalbypass
+Name: OpalBypass
+
+Package: com.level3tjg.redditcacheclearer
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: level3tjg
+Depends: mobilesubstrate
+Filename: ./debs/com.level3tjg.redditcacheclearer_1.0_iphoneos-arm.deb
+Size: 8546
+MD5sum: 508dff11499feba07fb54623b17a4b27
+SHA1: 628dea5d3b46c1fdd87c279e95d790bb21444b95
+SHA256: c149c724a024ca1b154a3aef0c5695a7d2761d1dae08f0153cfa7456421d43da
+Section: Tweaks
+Description: Clear the reddit video cache every time you open the app to save space
+Author: level3tjg
+Name: RedditCacheClearer
+
+Package: com.level3tjg.siriapp
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: level3tjg
+Installed-Size: 352
+Depends: mobilesubstrate, firmware (>=11.0)
+Filename: ./debs/com.level3tjg.siriapp_1.0_iphoneos-arm.deb
+Size: 37914
+MD5sum: 2f1d5340b9903f5ae11f0224fca8955e
+SHA1: feb545d0c2cefb5ccf25d0d762d74d0de34d772d
+SHA256: 3865423cfa5169c654c4a2c88c6f8b8771446755b48b458f05f97da3dfa6b6d6
+Section: Tweaks
+Description: Invoke Siri with a homescreen icon
+Author: level3tjg
+Name: SiriApp
+
+Package: com.level3tjg.spotifyequalizerenhancer
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: level3tjg
+Depends: mobilesubstrate
+Filename: ./debs/com.level3tjg.spotifyequalizerenhancer_1.0.1_iphoneos-arm.deb
+Size: 20738
+MD5sum: 66e8957812c60819e14971e2775d1db5
+SHA1: 96e7d4d98bf5dbeeea9a71c4bef08d035a825647
+SHA256: 54057ffd279884d3b5a0d7e92df628ad5ae6dd1b4acdb08eac2cca501e376221
+Section: Tweaks
+Description: Make the built-in Spotify equalizer useful
+Author: level3tjg
+Name: SpotifyEqualizerEnhancer
+
+Package: com.level3tjg.spotifyequalizerenhancer
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: level3tjg
+Depends: mobilesubstrate
+Filename: ./debs/com.level3tjg.spotifyequalizerenhancer_1.0_iphoneos-arm.deb
+Size: 20570
+MD5sum: b148966f6597456adddc1c33dfbf1a03
+SHA1: 58aba74ff1e0bf505badd0e905cff69d29c0cb05
+SHA256: 5d49d27836c71990227698f9f8e3e2be022e0633fdec5be159fe333a11a8aac0
+Section: Tweaks
+Description: Make the built-in Spotify equalizer useful
+Author: level3tjg
+Name: SpotifyEqualizerEnhancer
+
+Package: com.level3tjg.tc
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: level3tjg
+Depends: firmware(>=11.0), preferenceloader, applist
+Filename: ./debs/com.level3tjg.tc_1.0_iphoneos-arm.deb
+Size: 25732
+MD5sum: b790b86bfce89c85709b07ee99a10d1e
+SHA1: 68fd497bf8b4b515c8ae75edc86a64c95fc7349b
+SHA256: 6831eeaac3112b898f5873c1aabb0a9f4de06837852359524d977b3510361c20
+Section: Tweaks
+Description: Control navigation bar titles
+Author: level3tjg
+Depiction: https://level3tjg.github.io/depictions/?p=com.level3tjg.tc
+Name: Title Controller
+
+Package: com.level3tjg.voicemsgfix
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: level3tjg
+Depends: mobilesubstrate
+Filename: ./debs/com.level3tjg.voicemsgfix_1.0_iphoneos-arm.deb
+Size: 7126
+MD5sum: d9538de4228614f06ee199b612c179f5
+SHA1: bc5213c018b46518f67b479bcb104adade6ecf6f
+SHA256: 917bd928d81795f4b0486ef62a4a549bffc743f1a54d0296f14852053e2a8290
+Section: Tweaks
+Description: Fix Voice message crash in iOS 12 with unc0ver
+Author: level3tjg
+Name: VoiceMsgFix
+
+Package: com.level3tjg.xboxdvr
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: level3tjg
+Depends: mobilesubstrate
+Filename: ./debs/com.level3tjg.xboxdvr_1.2_iphoneos-arm.deb
+Size: 12696
+MD5sum: 9e72b466bd3be8779d98514c09e4275a
+SHA1: 3db318485d708d07e486da34d2afef2e07e1d42b
+SHA256: d07fbbfd2095947704810b50d8137ff4aa2e14d8eec8379634d81e2098c67a2c
+Section: Tweaks
+Description: Save Xbox clips to your camera roll
+Author: level3tjg
+Depiction: https://level3tjg.github.io/depictions/?p=com.level3tjg.xboxdvr
+Name: XboxDVR
+
+Package: com.level3tjg.xboxdvr
+Version: 1.2.1
+Architecture: iphoneos-arm
+Maintainer: level3tjg
+Depends: mobilesubstrate
+Filename: ./debs/com.level3tjg.xboxdvr_1.2.1_iphoneos-arm.deb
+Size: 12592
+MD5sum: 3b10c9d042fdf7b07fbc97d6af8a2f51
+SHA1: 4fe4171bdb88e1648427b40836ac157b81f46bd9
+SHA256: 7150eb101f2a267ff924e0f5d17e520c336f724ee83089ffe0a11941445374c3
+Section: Tweaks
+Description: Save Xbox clips to your camera roll
+Author: level3tjg
+Depiction: https://level3tjg.github.io/depictions/?p=com.level3tjg.xboxdvr
+Name: XboxDVR
+
+Package: com.level3tjg.ytnoctis
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: level3tjg
+Depends: mobilesubstrate, com.laughingquoll.noctisxi
+Filename: ./debs/com.level3tjg.ytnoctis_1.0_iphoneos-arm.deb
+Size: 4242
+MD5sum: e6ae110aa23854493b8715656490800e
+SHA1: 61c8dc9db7f96f7cce488ea7c3ebf3f642c1e411
+SHA256: 3fde602641f3c9a0f2539ccad2853944a59dc79e35e0f0059ac3706d50753442
+Section: Tweaks
+Description: Enable YouTube dark theme with Noctis toggles.
+Author: level3tjg
+Name: YTNoctis
+
+Package: com.mbo42.proxyswitcher11
+Version: 1.0.3
+Architecture: iphoneos-arm
+Maintainer: level3tjg
+Depends: mobilesubstrate, PreferenceLoader, org.thebigboss.libstatus9, firmware(>=11.0)
+Conflicts: com.mbo42.proxyswitcher
+Filename: ./debs/com.mbo42.proxyswitcher11_1.0.3_iphoneos-arm.deb
+Size: 69372
+MD5sum: f30b77b689b0b6cdb3c500912e83072d
+SHA1: 0b27fe8b8f6df4634275f700355e015fe1feac26
+SHA256: 90aafee3316ad8782aaf10c1797f3a4157439cb7026c65313bfa2895c0a0c94e
+Section: Tweaks
+Description: Easily toggle between using a proxy on WiFi.
+Author: mbo42
+Icon: file:///Library/Application Support/ProxySwitcher/ProxySwitcherBundle.bundle/icon.png
+Name: ProxySwitcher (iOS 11)
+
+Package: com.squ1dd13.sizefinder
+Version: 2.0
+Architecture: iphoneos-arm
+Maintainer: level3tjg
+Installed-Size: 148
+Depends: mobilesubstrate, firmware (>=8.0)
+Filename: ./debs/com.squ1dd13.sizefinder_2.0_iphoneos-arm.deb
+Size: 10902
+MD5sum: 76a5541302a2c4dea10e8d35f8794afa
+SHA1: c9ea7848b4dc750fb10194b31f050ba614f0d0ed
+SHA256: cc5015ca35d284a3d554daea3625cbd5f666d4e64631345265ba3fb1c6f7e35f
+Section: Tweaks
+Description: Add app size to delete button
+Author: Squ1dd13
+Name: SizeFinder
+
