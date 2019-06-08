@@ -17,7 +17,7 @@
 	</descriptionlist>
 	<screenshots></screenshots>
 	<changelog>
-		<change>Fixed an issue causing bfdecrypt not being able to run due to codesigning issues\n\nt</change>
+		<change>Fixed an issue causing bfdecrypt not being able to run due to codesigning issues</change>
 	</changelog>
 	<links></links>
 </package>
